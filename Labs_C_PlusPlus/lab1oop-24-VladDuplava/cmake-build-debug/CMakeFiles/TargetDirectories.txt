@@ -1,0 +1,3 @@
+/Users/vlad/Desktop/Labs_C_PlusPlus/lab1oop-24-VladDuplava/cmake-build-debug/CMakeFiles/lab1oop_24_VladDuplava.dir
+/Users/vlad/Desktop/Labs_C_PlusPlus/lab1oop-24-VladDuplava/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vlad/Desktop/Labs_C_PlusPlus/lab1oop-24-VladDuplava/cmake-build-debug/CMakeFiles/rebuild_cache.dir
